@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(25, 125, 255);
+    text-align: center;
+}
+div{
+    margin-top: 15px;
+}
+
+.img-sec{
+    display: flex;
+    justify-content: center;
+}
+.sec-style{
+    margin-left: 25px;
+    margin-right: 25px;
+    background-color: white;
+}
+
+img{
+    width: 300px;
+    height: 200px;
+}
